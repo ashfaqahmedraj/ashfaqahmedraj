@@ -1,8 +1,7 @@
-(https://media.licdn.com/dms/image/D5616AQHLvAByyH_64A/profile-displaybackgroundimage-shrink_350_1400/0/1677584888343?e=1683763200&v=beta&t=eWU9aA_QjgcakfGsruQrJEv01171sPu_dTqFI-ycwbc)
+![I am a Professional Web Developer](https://media.licdn.com/dms/image/D5616AQHLvAByyH_64A/profile-displaybackgroundimage-shrink_350_1400/0/1677584888343?e=1683763200&v=beta&t=eWU9aA_QjgcakfGsruQrJEv01171sPu_dTqFI-ycwbc)
 
 ### Hi there 👋, Ashfaq Ahmed Raj
 #### I am a Professional Web Developer
-![I am a Professional Web Developer]
 
 Expertise in programming languages such as HTML, CSS, Bootstrap, and PHP. Love to do learn new languages.
 
