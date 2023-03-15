@@ -8,11 +8,12 @@ Hey, I’m Ashfaq Ahmed Raj. I am a highly skilled full-stack web developer with
 Should you have a team, I am available to join with you. Here are a few examples of my work:
 <ul>
 <li>https://fabulousmegamall.com/</li>
-https://dj-emir.com/
-https://www.influencer.marketinghaat.com/
-http://www.baharipolli.com/
-https://www.shebarentacar.com/
+<li>https://dj-emir.com/</li>
+<li>https://www.influencer.marketinghaat.com/</li>
+<li>http://www.baharipolli.com/</li>
+<li>https://www.shebarentacar.com/</li>
 </ul>
+
 Skills: / HTML / CSS / JS / Bootstrap / PHP / Mysql / Wordpress
 
 - 🔭 I’m currently working on Octas 
