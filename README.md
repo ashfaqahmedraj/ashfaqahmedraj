@@ -32,12 +32,14 @@ Skills: / HTML / CSS / JS / Bootstrap / PHP / Mysql / Wordpress
 ![Profile views](https://gpvc.arturio.dev/ashfaqahmedraj)
 
 Thank you. Feel Free to contact me.
+<ul>
+<li>Whatsapp - +88 017 366 49989</li>
+<li>Email - contact.ashfaqahmedraj@gmail.com</li>
+<li>LinkedIn - https://www.linkedin.com/in/ashfaq-ahmed-r-159055254/</li>
+<li>Github- https://github.com/ashfaqahmedraj</li>
+<li>Facebook - https://www.facebook.com/ashfaqahmed.raj</li>
+</ul>
 
-Whatsapp - +88 017 366 49989
-Email - contact.ashfaqahmedraj@gmail.com
-LinkedIn - https://www.linkedin.com/in/ashfaq-ahmed-r-159055254/
-Github- https://github.com/ashfaqahmedraj
-Facebook - https://www.facebook.com/ashfaqahmed.raj
 
-Regards,
+Regards,<br>
 Ashfaq Ahmed Raj
