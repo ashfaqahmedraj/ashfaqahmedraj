@@ -3,7 +3,15 @@
 ### Hi there 👋, Ashfaq Ahmed Raj
 #### I am a Professional Web Developer
 
-Expertise in programming languages such as HTML, CSS, Bootstrap, and PHP. Love to do learn new languages.
+Hey, I’m Ashfaq Ahmed Raj. I am a highly skilled full-stack web developer with three years of experience working with renowned companies. I prioritise combining perfect design with seamless programming to create engaging and user-friendly websites. With over 10+ websites already developed, I have a wealth of knowledge in HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, and WordPress. I am acutely conscious of project deadlines and I welcome any suggestions for customization to guarantee your satisfaction. Let's collaborate to create exceptional work
+
+Should you have a team, I am available to join with you. Here are a few examples of my work:
+
+https://fabulousmegamall.com/
+https://dj-emir.com/
+https://www.influencer.marketinghaat.com/
+http://www.baharipolli.com/
+https://www.shebarentacar.com/
 
 Skills: / HTML / CSS / JS / Bootstrap / PHP / Mysql / Wordpress
 
@@ -22,4 +30,13 @@ Skills: / HTML / CSS / JS / Bootstrap / PHP / Mysql / Wordpress
 
 ![Profile views](https://gpvc.arturio.dev/ashfaqahmedraj)
 
+Thank you. Feel Free to contact me.
 
+Whatsapp - +88 017 366 49989
+Email - contact.ashfaqahmedraj@gmail.com
+LinkedIn - https://www.linkedin.com/in/ashfaq-ahmed-r-159055254/
+Github- https://github.com/ashfaqahmedraj
+Facebook - https://www.facebook.com/ashfaqahmed.raj
+
+Regards,
+Ashfaq Ahmed Raj
