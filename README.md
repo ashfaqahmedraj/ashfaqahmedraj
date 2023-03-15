@@ -3,7 +3,7 @@
 ### Hi there 👋, Ashfaq Ahmed Raj
 #### I am a Professional Web Developer
 
-Hey, I’m Ashfaq Ahmed Raj. I am a highly skilled full-stack web developer with three years of experience working with renowned companies. I prioritise combining perfect design with seamless programming to create engaging and user-friendly websites. With over 10+ websites already developed, I have a wealth of knowledge in HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, and WordPress. I am acutely conscious of project deadlines and I welcome any suggestions for customization to guarantee your satisfaction. Let's collaborate to create exceptional work
+Hey, I’m Ashfaq Ahmed Raj. I am a highly skilled full-stack web developer with three years of experience working with renowned companies. I priorities combining perfect design with seamless programming to create engaging and user-friendly websites. With over 10+ websites already developed, I have a wealth of knowledge in HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, and WordPress. I am acutely conscious of project deadlines and I welcome any suggestions for customization to guarantee your satisfaction. Let's collaborate to create exceptional work
 
 Should you have a team, I am available to join with you. Here are a few examples of my work:
 <ul>
