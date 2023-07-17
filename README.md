@@ -1,5 +1,4 @@
-![I am a Professional Web Developer](![image](https://github.com/ashfaqahmedraj/ashfaqahmedraj/assets/119995876/dabf0be7-4ffe-4fe3-ac36-c37f431c0e2d)
-)
+[![I am a Professional Web Developer](https://media.licdn.com/dms/image/D5616AQGvIMEzW0HFLQ/profile-displaybackgroundimage-shrink_350_1400/0/1678360548149?e=1695254400&v=beta&t=YflVqmNDEAwXj1Y3f1W0P6SNtFYhmRWcN1qJ-cqk67s)
 
 ### Hi there 👋, Ashfaq Ahmed Raj
 #### I am a Professional Web Developer
