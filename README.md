@@ -35,7 +35,7 @@ Thank you. Feel Free to contact me.
 <ul>
 <li>WhatsApp - +88 017 366 49989</li>
 <li>Email - contact.ashfaqahmedraj@gmail.com</li>
-<li>LinkedIn - https://www.linkedin.com/in/ashfaq-ahmed-r-159055254/</li>
+<li>LinkedIn - https://www.linkedin.com/in/ashfaqahmedraj</li>
 <li>GitHub- https://github.com/ashfaqahmedraj</li>
 <li>Facebook - https://www.facebook.com/ashfaqahmed.raj</li>
 </ul>
