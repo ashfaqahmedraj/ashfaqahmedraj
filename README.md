@@ -12,7 +12,6 @@ Should you have a team, I am available to join with you. Here are a few examples
 <li>https://dj-emir.com/</li>
 <li>https://www.influencer.marketinghaat.com/</li>
 <li>http://www.baharipolli.com/</li>
-<li>https://www.shebarentacar.com/</li>
 </ul>
 
 Skills: / HTML / CSS / JS / Bootstrap / PHP / Mysql / Wordpress
